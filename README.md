@@ -6,7 +6,7 @@ Initially we used 2D datasets like **Moon** and **Circle** from scikit-learn. We
 
 ## Contributors
 
-### Ramanan
+### [Ramanan](https://github.com/ramzz25)
 ### Om Shri Prasath
 ### Tamil Sudaravan
 ### Kaousheik
