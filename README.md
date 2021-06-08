@@ -10,5 +10,5 @@ Initially, we used 2D datasets like **Moon** and **Circle** from scikit-learn. W
 
 ### [Ramanan](https://github.com/ramzz25)
 ### Om Shri Prasath
-### Tamil Sudaravan
+### [Tamil Sudaravan](https://github.com/SudaravanM)
 ### Kaousheik
